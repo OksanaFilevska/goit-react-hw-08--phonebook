@@ -2,16 +2,16 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    border-bottom: 1px solid #2A363B;
+    border-bottom: 1px solid hsl(293, 62%, 43%);
   }
   
   .link {
     display: inline-block;
     text-decoration: none;
     padding: 12;
-    font-weight: 700;
-    color: '#2A363B';
+    font-weight: 1000;
+    color: 'hsl(293, 62%, 43%)';
   }
   .activeLink {
-text-shadow:  rgb(7, 134, 207) 3px 2px;
+text-shadow:  rgb(7, 207, 50) 3px 2px;
   }

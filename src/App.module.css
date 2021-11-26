@@ -45,11 +45,11 @@ ul,li,div,p {
     margin: 0 auto;
     padding: 20px;
     background-image: url('./phone.jpg');
+
     background-repeat: no-repeat;
     background-size: cover;
-    border:ridge 10px rgb(11, 56, 65);
+    border:ridge 10px rgb(9, 92, 13);
   }
-  
   
   @keyframes App-logo-spin {
     from {
