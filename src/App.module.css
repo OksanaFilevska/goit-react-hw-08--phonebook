@@ -44,10 +44,10 @@ ul,li,div,p {
     min-height:100vh;
     margin: 0 auto;
     padding: 20px;
-    background-image: url('./phonebook-2.jpg');
+    background-image: url('./phone.jpg');
     background-repeat: no-repeat;
     background-size: cover;
-    border:ridge 10px goldenrod;
+    border:ridge 10px rgb(11, 56, 65);
   }
   
   
